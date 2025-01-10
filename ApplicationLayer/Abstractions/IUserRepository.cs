@@ -6,6 +6,6 @@ using System.Threading.Tasks;
 
 namespace ApplicationLayer.Abstractions;
 
-public class IUserRepository
+public interface IUserRepository
 {
 }
